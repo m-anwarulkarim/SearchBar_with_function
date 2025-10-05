@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { TextInput, Text, Loader } from "@mantine/core";
 import { useDebouncedCallback } from "@mantine/hooks";
-
+// npm install @mantine/core @mantine/hooks
 // লোকাল ডাটা
 const products = [
   { id: 1, title: "আম", category: "fruit" },
